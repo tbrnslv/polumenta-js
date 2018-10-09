@@ -6,6 +6,7 @@ Inspired and originally forked from https://github.com/jablan/polumenta
 On NPM:
 
 npm install polumenta-js
+
 yarn add polumenta-js
 
 
