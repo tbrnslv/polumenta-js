@@ -1,6 +1,3 @@
-polumenta
-=========
+# Js clone of polumenta generator
 
-Polumenta generator clone
-
-U akciji na http://polumenta.radioni.ca/
+Inspired and originally forked from https://github.com/jablan/polumenta
