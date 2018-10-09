@@ -23,8 +23,8 @@ const getPolumenta = (script, gender) => {
 
 /**
  * Generate Polumenta
- * @param {string} script
- * @param {string} gender
+ * @param {string} script Script - 'latin' or 'cyrilic', default is 'latin' (this parameter changes script of Polumenta's name)
+ * @param {string} gender Gender - 'male' or 'female', default is 'male' (this parameter changes last letter of Polumenta's name)
  * @return {string}
  */
 module.exports = (script, gender) => {
