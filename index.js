@@ -21,4 +21,12 @@ const getPolumenta = (script, gender) => {
       : letters[choosenScript].d[1]);
 };
 
-module.exports = getPolumenta;
+/**
+ * Generate Polumenta
+ * @param {string} script
+ * @param {string} gender
+ * @return {string}
+ */
+module.exports = (script, gender) => {
+  return getPolumenta(script, gender);
+};
